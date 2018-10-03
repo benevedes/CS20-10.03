@@ -1,4 +1,7 @@
-table, th, td
+div.container
 {
-  border: 1 px solid black;
+  table, th, td
+  {
+    border: 1 px solid black;
+  }
 }
