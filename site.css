@@ -10,3 +10,8 @@ div.container
   margin-right: auto;
   max-width: 70em;
 }
+
+table, th, td
+{
+  border: 1 px solid black;
+}
